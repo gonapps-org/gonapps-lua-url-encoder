@@ -1,15 +1,15 @@
 package = "gonapps-url-encoder"
-version = "1.0-2"
+version = "1.0-3"
 
 source = {
-    url = "git://github.com/gonapps/gonapps-lua-url-encoder",
-    tag = "v1.0-2"
+    url = "git://github.com/gonapps-org/gonapps-lua-url-encoder",
+    tag = "v1.0-3"
 }
 
 description = {
     summary = "An url encoder.",
     detailed = [[]],
-    homepage = "http://github.com/gonapps/gonapps-lua-url-encoder",
+    homepage = "http://github.com/gonapps-org/gonapps-lua-url-encoder",
     license = "Mozilla Public License 2.0"
 }
 
